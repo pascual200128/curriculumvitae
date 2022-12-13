@@ -250,8 +250,7 @@ class _SecondRouteState extends State<SecondRoute> {
             ),
             ElevatedButton.icon(
               style: ElevatedButton.styleFrom(
-                backgroundColor: Colors.grey, // background
-                foregroundColor: Colors.black, // foreground
+// foreground
                 shape: new RoundedRectangleBorder(
                   borderRadius: new BorderRadius.circular(20.0),
                 ),
@@ -264,8 +263,7 @@ class _SecondRouteState extends State<SecondRoute> {
             ), // ElevatedButton
             ElevatedButton.icon(
               style: ElevatedButton.styleFrom(
-                backgroundColor: Colors.grey, // background
-                foregroundColor: Colors.black, // foreground
+
                 shape: new RoundedRectangleBorder(
                   borderRadius: new BorderRadius.circular(20.0),
                 ),
@@ -278,8 +276,6 @@ class _SecondRouteState extends State<SecondRoute> {
             ),
             ElevatedButton.icon(
               style: ElevatedButton.styleFrom(
-                backgroundColor: Colors.blueGrey, // background
-                foregroundColor: Colors.black, // foreground
                 shape: new RoundedRectangleBorder(
                   borderRadius: new BorderRadius.circular(20.0),
                 ),
