@@ -32,7 +32,7 @@ flutter:
     - images/logo.png
     - images/philcst.jpg
     - images/home.gif
-
+    - assets/images/secured.gif
   fonts:
     - family: Pacifico
       fonts:
