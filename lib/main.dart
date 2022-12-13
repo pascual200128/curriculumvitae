@@ -141,7 +141,7 @@ class _LoginFormState extends State<LoginForm> {
               height: 50,
               width: 250,
               decoration: BoxDecoration(
-                  color: Colors.blue,
+                  color: Colors.deepPurpleAccent,
                   borderRadius: BorderRadius.circular(20.0)),
               child: TextButton(
                 child: Text(
@@ -202,7 +202,7 @@ class _SecondRouteState extends State<SecondRoute> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             CircleAvatar(
-              radius: 50.0,
+              radius: 90.0,
               backgroundColor: Colors.green[200],
               backgroundImage: AssetImage('images/pascual.jpg'),
             ),
